@@ -9,9 +9,9 @@
 ## 動作の可否
 | カードリーダー | Android | Windows |
 | ---- | :----: | :----: |
-| SCR3310-NTTCom (NTT ドコモビジネス) | ✖️ | ⭕️ |
-| SCR3310V2.0 (NTT ドコモビジネス) | ⭕️ | ⭕️ |
-| CLOUD2700-NTTCom (NTT ドコモビジネス) | ⭕️ | ⭕️ |
+| SCR3310-NTTCom (NTT ドコモビジネス/Identiv) | ✖️ | ⭕️ |
+| SCR3310V2.0 (NTT ドコモビジネス/Identiv) | ⭕️ | ⭕️ |
+| CLOUD2700-NTTCom (NTT ドコモビジネス/Identiv) | ⭕️ | ⭕️ |
 | RW-4040 (SHARP) | ✖️ | ✖️ |
 | RW-5100 (SHARP) | ✖️ | ✖️ |
 

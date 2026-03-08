@@ -1,0 +1,2 @@
+# Japanese_ICCardReader
+日本で販売されているICカードリーダーでEUICCカードの動作可否をまとめています。

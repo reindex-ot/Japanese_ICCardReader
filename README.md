@@ -4,7 +4,7 @@
 自分が所持しているカードリーダーや知識では限りがあるため、Pull Request や Issue での動作報告の提供をいただければ幸いです。
 
 ## 動作の確認について
-**Android** での USB デバイスの確認 (EasyEUICC と NekokoLPA) と **Windows PC** での USB デバイスの確認 (ESTKme アプリ) で行っています。
+**Android** で USB デバイスの確認 (EasyEUICC と NekokoLPA) と **Windows PC** で USB デバイスの確認 (ESTKme アプリ) で行っています。
 
 | カードリーダー | Android | Windows |
 | ---- | :----: | :----: |
@@ -16,7 +16,7 @@
 
 
 SHARP 製のカードリーダーは全般的に使用不可能です。<br>
-SCR3310-NTTCom は、PC でのみカードリーダーが動作します。Windows 10 以降の場合は当リポジトリ内のドライバーを使用してください (Windows 11 にも対応済み)。
+SCR3310-NTTCom は、**PC でのみ**カードリーダーが動作します。Windows 10 以降の場合は当リポジトリ内のドライバーを使用してください (Windows 11 にも対応済み)。
 
 ## ドライバーのダウンロードについて
 リポジトリ内の driver フォルダーを参照してください。

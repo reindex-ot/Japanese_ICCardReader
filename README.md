@@ -6,6 +6,7 @@
 ## 動作の確認について
 **Android** で USB デバイスの確認 (EasyEUICC と NekokoLPA) と **Windows PC** で USB デバイスの確認 (ESTKme アプリ) で行っています。
 
+## 動作の可否
 | カードリーダー | Android | Windows |
 | ---- | :----: | :----: |
 | SCR3310-NTTCom (NTT ドコモビジネス) | ✖️ | ⭕️ |

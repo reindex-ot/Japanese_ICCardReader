@@ -28,4 +28,4 @@ SCR3310-NTTCom は、**PC でのみ**カードリーダーが動作します。W
 リポジトリ内の driver フォルダーを参照してください。
 
 ## (PR) ESTKme をお得に購入しましょう
-[こちら](https://store.estk.me/?code=reindex)のリンクを経由すると 10 % オフの価格でご購入いただけます。
+[こちら](https://store.estk.me/?code=reindex)のリンクを経由すると **10 % オフ**の価格でご購入いただけます。

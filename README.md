@@ -9,6 +9,8 @@
 ## 動作の確認について
 **Android** で USB デバイスの確認 (EasyEUICC と NekokoLPA) と **Windows PC** で USB デバイスの確認 (ESTKme アプリ) で行っています。
 
+物理 eSIM カードは ESTKme で検証しています。
+
 ## 動作の可否
 | カードリーダー | Android | Windows |
 | ---- | :----: | :----: |
